@@ -1,0 +1,1 @@
+This is a The command-line file .sh is used to install Xubuntu (xfce4), similar to Gnome, also supports Proot for Android phones only used Termux. from Ubuntu 25.10 or higher because This only includes versions 25.10 and 26.04. You can still install Ubuntu 20.04 or 19.04 and above. 
